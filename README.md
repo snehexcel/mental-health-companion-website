@@ -1,9 +1,7 @@
 # Mental Health Companion
-### This is part of our final year project
-The Mental Health Companion App is an application designed to help individuals manage their mental health.<br>
-The app provides a range of tools to help users talk to a chatbot. It has a questionnaire that is desgined to <br>
-detect the most probable illness the user might be suffering from.<br>
-There is a compilation of resources to support the user's mental well-being.
+### This is my PBL (Project-Based Learning) project for college. <br>
+The Mental Health Companion App is designed to support individuals in managing their mental well-being.<br>
+It includes a chatbot for immediate assistance, a self-assessment questionnaire, mindfulness tools, and a collection of resources aimed at promoting mental health awareness and access to professional support.
 ## Dependencies
 [![API - OPENAI](https://img.shields.io/badge/Node.js-%235174EA?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)<br>
 [![dependency - Node.js](https://img.shields.io/badge/openai-%23EA5178?style=for-the-badge&logo=OPENAI-API&logoColor=white)](//beta.openai.com/overview)<br>
