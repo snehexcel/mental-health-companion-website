@@ -1,5 +1,3 @@
-# Mental Health Companion
-### This is my PBL (Project-Based Learning) project for college. <br>
 The Mental Health Companion App is designed to support individuals in managing their mental well-being.<br>
 It includes a chatbot for immediate assistance, a self-assessment questionnaire, mindfulness tools, and a collection of resources aimed at promoting mental health awareness and access to professional support.
 ## Dependencies
